@@ -1,3 +1,10 @@
+.montserrat {
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 100;
+	font-style: normal;
+}
 .myTitle {
 	/* Add your code below this line */
+	font-family: "Montserrat";
 }
